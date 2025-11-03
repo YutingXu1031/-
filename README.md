@@ -10,7 +10,7 @@
 
 
 
-<img src="C:\Users\Yuting\Desktop\image\image-20251103131540297.png" alt="image-20251103131540297" style="zoom: 33%;" />
+<img src=".\image-20251103131540297.png" alt="image-20251103131540297" style="zoom: 33%;" />
 
 <img src="C:\Users\Yuting\Desktop\image\image-20251103131620191.png" alt="image-20251103131620191" style="zoom: 50%;" />
 
